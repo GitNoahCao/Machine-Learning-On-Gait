@@ -1,6 +1,6 @@
 # Machine-Learning-On-Gait
 
-In this project, what we are trying to do is using the data of linear accelerometer sensor in our cell phone to calculate people’s walking speed, step frequency, and distance. We also used different machine learning models to identify the influence of gender, speed, and right foot or left foot on gait (a person's manner of walking).
+In this project, what we are trying to do is using the data from linear accelerometer sensor in our cell phone to calculate people’s walking speed, step frequency, and distance. We also used different machine learning models to identify the influence of gender, speed, and right foot or left foot on gait (a person's manner of walking).
 
 To accomplish those goals, we collected data under different walking speed, like slow walking, fast walking and running. Also, we collect data from different heights of people, 160cm and 180cm. Then, we tried different filters to clean the data, numerical integration and Fourier transform to get walking speed and distance and different machine learning methods to analyze the data.
 
@@ -11,7 +11,9 @@ For Machine Learning part, Gaussian Naive Bayes, KNeighborsClassifier, Support V
 
 
 #Group member
+
 1.Noah Cao
+
 2.John Zhang
 
 ## Required languages and Libraries:
